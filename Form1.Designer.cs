@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             addButton = new Button();
             tarefasGroup = new GroupBox();
             panelTarefas = new FlowLayoutPanel();
@@ -94,6 +95,7 @@
             Controls.Add(removeButton);
             Controls.Add(tarefasGroup);
             Controls.Add(addButton);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Lista de Tarefas";
             tarefasGroup.ResumeLayout(false);
