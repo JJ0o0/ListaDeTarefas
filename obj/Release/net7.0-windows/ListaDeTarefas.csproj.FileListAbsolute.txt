@@ -1,0 +1,16 @@
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\bin\Release\net7.0-windows\ListaDeTarefas.exe
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\bin\Release\net7.0-windows\ListaDeTarefas.deps.json
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\bin\Release\net7.0-windows\ListaDeTarefas.runtimeconfig.json
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\bin\Release\net7.0-windows\ListaDeTarefas.dll
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\bin\Release\net7.0-windows\ListaDeTarefas.pdb
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.Form1.resources
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.csproj.GenerateResource.cache
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.dll
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\refint\ListaDeTarefas.dll
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.pdb
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ListaDeTarefas.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Downloads\ListaDeTarefas\obj\Release\net7.0-windows\ref\ListaDeTarefas.dll
